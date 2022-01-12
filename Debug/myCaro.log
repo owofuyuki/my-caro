@@ -1,0 +1,6 @@
+﻿  myCaro.cpp
+\\Mac\Home\Downloads\_Windows\Codelearn\myCaro\myCaro.cpp(205,36): warning C4309: 'argument': truncation of constant value
+\\Mac\Home\Downloads\_Windows\Codelearn\myCaro\myCaro.cpp(205,24): warning C4309: 'argument': truncation of constant value
+\\Mac\Home\Downloads\_Windows\Codelearn\myCaro\myCaro.cpp(209,36): warning C4309: 'argument': truncation of constant value
+\\Mac\Home\Downloads\_Windows\Codelearn\myCaro\myCaro.cpp(209,24): warning C4309: 'argument': truncation of constant value
+  myCaro.vcxproj -> \\Mac\Home\Downloads\_Windows\Codelearn\myCaro\Debug\myCaro.exe
